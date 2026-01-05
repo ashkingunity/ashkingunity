@@ -29,6 +29,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
 
 <!-- Snake Animation -->
-<div align="center">
-  ![snake gif](https://github.com/ashkingunity/ashishdandge/blob/output/github-snake-dark.svg)
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashkingunity/ashishdandge/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashkingunity/ashishdandge/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/riken96/riken96/output/github-snake.svg" />
+</picture>
